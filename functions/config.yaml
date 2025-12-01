@@ -1,0 +1,19 @@
+stock_symbols:
+  - IBM
+  - MSFT
+  - GOOGL
+  - AMZN 
+  - NVDA 
+  - TSLA 
+
+
+
+adjusted: 
+  - True
+  - False
+
+outputsize:
+  - full
+  - compact
+
+funciones: TIME_SERIES_DAILY
